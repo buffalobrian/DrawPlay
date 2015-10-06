@@ -1,0 +1,12 @@
+Code, RoomName, Card/Other
+F, Foyer, Card
+L, Laboratory, Card
+G, Green House, Card
+T, Toy Room, Card
+V, Video Room, Card
+Z, Bed Room, Card
+B, Bath Room, Card
+S, Study, Card
+P, Parlor, Card
+W, Walkway, Other
+X, Closet, Other
