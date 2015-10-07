@@ -47,7 +47,16 @@ public class Cat {
 		g2.drawString("Meow", catX, catY+HEAD_DIMENSION+10);	
 		x = catX + 120;
 		y = catY + 25;
-		g2.setColor(Color.cyan);
+		// gave the cat legs
 		g2.fillOval(x, y, 300, 150);
+		y += 30;
+		g2.fillRect(x, y, 10, 400);
+		x += 30;
+		g2.fillRect(x, y, 10, 400);
+		x += 90;
+		g2.fillRect(x, y, 10, 400);
+		x += 30;
+		g2.fillRect(x, y, 10, 400);
+		
 	}
 }
